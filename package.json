@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/alexjmarshall/selenium-test/issues"
   },
-  "homepage": "https://github.com/alexjmarshall/selenium-test#readme"
+  "homepage": "https://github.com/alexjmarshall/selenium-test#readme",
+  "dependencies": {
+    "chromedriver": "^87.0.4",
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
 }
